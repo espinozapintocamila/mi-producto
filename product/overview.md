@@ -2,7 +2,7 @@
 
 mode: new · commercial
 
-App para registrar el riego, el abono y otros cuidados de cada planta, avisándole por mensaje o audio ("regué el filodendro"). Muestra la ficha de cada planta con su historial y una lista de cuáles toca regar, ordenadas por urgencia.
+App para registrar el riego, el abono y otros cuidados de cada planta. Muestra la ficha de cada planta con su historial y una lista de cuáles toca regar, ordenadas por urgencia.
 
 ## Para quién
 
