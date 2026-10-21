@@ -1,0 +1,13 @@
+{
+  "extraKnownMarketplaces": {
+    "ai-first-skills": {
+      "source": {
+        "source": "github",
+        "repo": "alaimo-labs/ai-first-skills"
+      }
+    }
+  },
+  "enabledPlugins": {
+    "afpm@ai-first-skills": true
+  }
+}
