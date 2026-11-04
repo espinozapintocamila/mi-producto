@@ -25,3 +25,5 @@ Ordenadas por impacto × incertidumbre: la primera es la siguiente a atacar.
 5. [opportunity: coordinacion-riego] [value] En hogares donde dos o más personas cuidan las mismas plantas, se riegan plantas dos veces o ninguno las riega porque cree que el otro lo hizo, y eso les ha costado plantas.
 6. [opportunity: coordinacion-riego] [usability] Todas las personas del hogar registrarían cada riego en la app; basta con que una no lo haga para que el registro compartido deje de servir.
 7. [opportunity: coordinacion-riego] [viability] Un hogar pagaría una sola suscripción compartida, y el precio por hogar no baja tanto el ingreso por usuario como para que el negocio deje de funcionar.
+8. [feature: guia-riego] [value] Las personas con más de 15 plantas que ahogaron plantas lo hicieron por no saber cuánta agua necesitaba cada una, y con una indicación por planta riegan menos en las 4 semanas siguientes.
+9. [feature: guia-riego] [viability] Al menos 1 de cada 5 personas del segmento que use la guía gratis durante 2 semanas acepta pagar ~$1.990 CLP al mes para seguir usándola, aunque Greg y Planta ofrezcan planes de riego.
