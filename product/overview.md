@@ -17,7 +17,7 @@ Por validar: hogares donde dos o más personas cuidan las mismas plantas (pareja
 Ordenadas por impacto × incertidumbre: la primera es la siguiente a atacar.
 
 1. [product] [value] Las personas del target no recuerdan cuándo regaron por última vez cada planta, y eso les ha costado plantas secas o ahogadas.
-   — weakened by [product/insights/2026-11-03-2117-encuesta-olvido-riego.md] (2026-11-03)
+   — weakened by [product/insights/2026-11-03-2117-encuesta-olvido-riego.md] (2026-11-03) — solo en lo de plantas secas; lo de plantas ahogadas por no recordar el último riego sigue abierto
 2. [product] [value] Ya intentaron llevar un registro (papel, notas o Excel) y lo abandonaron porque actualizarlo después de regar se les olvida o les da pereza.
    — weakened by [product/insights/2026-11-03-2117-encuesta-olvido-riego.md] (2026-11-03)
 3. [product] [viability] Pagarían alrededor de $1.990 CLP al mes por una app que les lleve este registro.
@@ -27,3 +27,5 @@ Ordenadas por impacto × incertidumbre: la primera es la siguiente a atacar.
 7. [opportunity: coordinacion-riego] [viability] Un hogar pagaría una sola suscripción compartida, y el precio por hogar no baja tanto el ingreso por usuario como para que el negocio deje de funcionar.
 8. [feature: guia-riego] [value] Las personas con más de 15 plantas que ahogaron plantas lo hicieron por no saber cuánta agua necesitaba cada una, y con una indicación por planta riegan menos en las 4 semanas siguientes.
 9. [feature: guia-riego] [viability] Al menos 1 de cada 5 personas del segmento que use la guía gratis durante 2 semanas acepta pagar ~$1.990 CLP al mes para seguir usándola, aunque Greg y Planta ofrezcan planes de riego.
+10. [feature: registro-cuidados] [value] Las personas con más de 15 plantas que ahogaron plantas regaron sin saber si ya las habían regado, y con la fecha del último riego a la vista riegan de más menos veces en las 4 semanas siguientes.
+11. [feature: registro-cuidados] [usability] Las personas con más de 15 plantas registrarán al menos un riego por semana durante 4 semanas, aunque nunca han anotado nada.

@@ -39,7 +39,8 @@ date: 2026-11-03
 
   - **¿Sabía cuándo regó cada planta la última vez?** En el segmento de más de 15: "sí, de todas" 5, "de algunas sí y de otras no" 6, "de ninguna" 1. En el grupo de 6 a 15: 7, 6 y 6.
   - **¿Cómo decide regar?** En el segmento de más de 15, **8 de 12 tocan o miran la tierra**; 1 riega en días fijos.
-- **Decisión:** en el segmento de más de 15 plantas, **nadie** perdió plantas por olvidar regar. Las pérdidas vienen de **regar de más** y de la luz, y la mayoría decide mirando la tierra, no la memoria. El olvido aparece en quienes tienen **6 a 15 plantas** (7 de 13 se les secaron). La creencia #1 se debilita para el segmento. Antes de seguir, hay que entender si "regar de más" es por no saber si ya regó (memoria) o por no saber cuánta agua necesita (conocimiento). Esa pregunta va a las entrevistas.
+- **Decisión:** en el segmento de más de 15 plantas, **nadie** perdió plantas por secarse; las pérdidas vienen de **regar de más** y de la luz. Pero 7 de 12 no sabían cuándo habían regado todas sus plantas, y regar de más puede venir justamente de esa duda (regar de nuevo sin recordar que ya se regó). **La encuesta no distingue** si regar de más es por memoria (no recordar el último riego) o por conocimiento (no saber cuánta agua necesita). La creencia #1 se debilita solo en lo de plantas **secas**; lo de plantas **ahogadas** sigue abierto y es la pregunta central para las entrevistas. El olvido de regar a tiempo aparece en quienes tienen **6 a 15 plantas** (7 de 13 se les secaron).
+- *Corrección (2026-11-03):* la primera versión de este análisis decía que las pérdidas "no son por olvido". Cami lo corrigió: no recordar el último riego genera duda sobre si regar o no, y eso puede llevar a regar de más. Ver `product/corrections.md`.
 
 ### 2 · Registros abandonados (creencia #2)
 
@@ -72,11 +73,11 @@ El **conocimiento** (8) y la **dosis de riego** (5) suman casi la mitad. El olvi
 
 ## Insights
 
-## 1. En el segmento de más de 15 plantas, las plantas no se pierden por olvido sino por regar de más y por la luz
+## 1. En el segmento de más de 15 plantas, las plantas se pierden por regar de más, y no sabemos si es por duda o por desconocimiento
 
-Ninguna de las 10 personas del segmento que perdió plantas dice que se le secaron por no regar a tiempo; 5 dicen que las ahogaron regándolas de más, y 8 de 12 deciden cuándo regar mirando la tierra. El problema que ataca `olvido-riego` (no recordar cuándo regaste) no aparece en quienes tienen muchas plantas: aparece en quienes tienen de 6 a 15 (7 de 13 se les secaron). Antes de construir un registro de riegos hay que decidir si el segmento es el correcto o si el problema es otro.
+Ninguna de las 10 personas del segmento que perdió plantas dice que se le secaron por no regar a tiempo; 5 dicen que las ahogaron regándolas de más. Al mismo tiempo, 7 de 12 no sabían cuándo habían regado todas sus plantas, y 8 de 12 deciden mirando la tierra. Regar de más puede venir de **no recordar el último riego** (riegan de nuevo por si acaso) o de **no saber cuánta agua necesita** cada planta: son dos problemas con soluciones distintas (registro o guía), y la encuesta no los separa. Hay que resolverlo en entrevistas antes de construir.
 
-> Evidencia: Q2 × S1 (n=10 y n=13) · "He matado más plantas por sobre-riego que por sequía" — R-25
+> Evidencia: Q2 × S1 (n=10) y Q3 en el segmento (n=12) · "He matado más plantas por sobre-riego que por sequía" — R-25
 
 ## 2. Casi nadie ha intentado llevar un registro, así que no hay un Excel abandonado que reemplazar
 
