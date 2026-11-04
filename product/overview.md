@@ -17,7 +17,9 @@ Por validar: hogares donde dos o más personas cuidan las mismas plantas (pareja
 Ordenadas por impacto × incertidumbre: la primera es la siguiente a atacar.
 
 1. [product] [value] Las personas del target no recuerdan cuándo regaron por última vez cada planta, y eso les ha costado plantas secas o ahogadas.
+   — weakened by [product/insights/2026-11-03-2117-encuesta-olvido-riego.md] (2026-11-03)
 2. [product] [value] Ya intentaron llevar un registro (papel, notas o Excel) y lo abandonaron porque actualizarlo después de regar se les olvida o les da pereza.
+   — weakened by [product/insights/2026-11-03-2117-encuesta-olvido-riego.md] (2026-11-03)
 3. [product] [viability] Pagarían alrededor de $1.990 CLP al mes por una app que les lleve este registro.
 4. [opportunity: olvido-riego] [viability] Quienes paguen la suscripción seguirán usándola y pagándola después de 3 meses, porque registrar un riego les toma menos esfuerzo que el que les costó su Excel o sus notas.
 5. [opportunity: coordinacion-riego] [value] En hogares donde dos o más personas cuidan las mismas plantas, se riegan plantas dos veces o ninguno las riega porque cree que el otro lo hizo, y eso les ha costado plantas.
