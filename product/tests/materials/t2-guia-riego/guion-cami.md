@@ -20,3 +20,9 @@ Prueba: `product/tests/2026-11-10-1928-olvido-riego.md`, T2. Creencia #8.
 > "¿Cambiaste algo en cómo riegas o dónde tienes alguna de estas plantas? ¿Cuál y qué cambiaste? Si puedes, mándame una foto 📸"
 
 - Si responde algo general ("¡muy útil!"), repregunta **una sola vez**: *"¡Qué bueno! ¿Hay alguna planta en la que hayas hecho algo distinto? ¿Cuál y qué hiciste?"*
+
+## Día 10 (solo a quien declaró una intención el día 7)
+
+> "¿Alcanzaste a hacer lo que me contaste con la {planta}?"
+
+- Si lo hizo, cuenta como cambio concreto y se anota en la hoja.

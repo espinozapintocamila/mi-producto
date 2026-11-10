@@ -12,21 +12,21 @@ Se llena con los IDs de la encuesta (R-13…), no con nombres ni teléfonos.
 
 ## Por evento (una fila cada vez que avisan o consultan)
 
-| Persona | Fecha y hora | Tipo (aviso de riego / consulta) | Planta | Si es consulta: días desde el último riego que les diste | Qué hizo después (regó / esperó / no respondió) | Demora de tu respuesta |
-|---|---|---|---|---|---|---|
-| | | | | | | |
+| Persona | Fecha y hora | Tipo (aviso de riego / consulta) | Planta | Si es consulta: días desde el último riego que les diste ("sin registro" si no había) | Qué hizo después (regó / esperó / no respondió) | ¿Esperó porque otra persona de la casa regó? (sí/no) | Demora de tu respuesta |
+|---|---|---|---|---|---|---|---|
+| | | | | | | | |
 
 ## Resumen al día 7
 
-| Persona | Avisos de riego | Consultas | Veces que esperó por la fecha | Respuestas del cierre |
-|---|---|---|---|---|
-| R-13 | | | | |
-| R-31 | | | | |
-| R-36 | | | | |
+| Persona | Avisos de riego | Consultas con registro | Consultas sin registro | Veces que esperó por la fecha | De esas, por otra persona de la casa | Respuestas del cierre |
+|---|---|---|---|---|---|---|
+| R-13 | | | | | | |
+| R-31 | | | | | | |
+| R-36 | | | | | | |
 
 ## Cómo se lee (fijo, no se cambia después de correr la prueba)
 
-- Una persona **cuenta** si tiene **2 o más consultas** y al menos **1 vez esperó** por la fecha.
+- Una persona **cuenta** si tiene **2 o más consultas con registro** y al menos **1 vez esperó** por la fecha. Las consultas sin registro no suman. Las esperas porque otra persona de la casa regó cuentan, pero se informan aparte.
 - **Pasa** si cuentan **2 de 3**.
 - **Change** si avisan sus riegos, pero tienen **menos de 2 consultas**.
 - **Discard** si cuentan **1 o ninguna**.
