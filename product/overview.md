@@ -29,3 +29,5 @@ Ordenadas por impacto × incertidumbre: la primera es la siguiente a atacar.
 9. [feature: guia-riego] [viability] Al menos 1 de cada 5 personas del segmento que use la guía gratis durante 2 semanas acepta pagar ~$1.990 CLP al mes para seguir usándola, aunque Greg y Planta ofrezcan planes de riego.
 10. [feature: registro-cuidados] [value] Las personas con más de 15 plantas que ahogaron plantas regaron sin saber si ya las habían regado, y con la fecha del último riego a la vista riegan de más menos veces en las 4 semanas siguientes.
 11. [feature: registro-cuidados] [usability] Las personas con más de 15 plantas registrarán al menos un riego por semana durante 4 semanas, aunque nunca han anotado nada.
+12. [feature: registro-cuidados] [feasibility] El registro por mensaje se puede operar en un canal de chat (por ejemplo WhatsApp) con el presupuesto y el tiempo de una sola persona. — owner: Cami
+13. [feature: registro-cuidados] [usability] Las personas entienden y usan apodos de sus plantas de forma consistente, y el chat los distingue sin errores.
