@@ -88,6 +88,8 @@ Probado en: `product/tests/2026-11-10-1928-olvido-riego.md`
 - T1 Fecha del último riego por WhatsApp — passed solo como ensayo (synthetic, 3 respuestas ficticias) · #10. **La prueba real no se corrió: riskiest belief not tested (declared).**
 - T2 Tarjetas por planta (A2, no esta spec) — failed solo como ensayo (synthetic).
 
+Métricas: `product/metrics/2026-11-24-1927-registro-cuidados.md`
+
 ## Supuestos
 
 - [product] [value] Las personas del target no recuerdan cuándo regaron por última vez cada planta, y eso les ha costado plantas secas o ahogadas. (#1 — weakened solo en lo de plantas secas)
