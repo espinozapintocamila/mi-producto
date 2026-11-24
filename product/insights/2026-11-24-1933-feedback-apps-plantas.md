@@ -38,14 +38,16 @@ period: 2020-10-09 to 2026-11-13
 - > "It is basically a reminder, same thing you can do in your own reminders app." — F-11
 - > "I cannot understand the decision of pushing the premium subscription EVERY time you open the app." — F-24
 
-### F3. Plan y avisos de riego: ayudan, pero el calendario fijo no convence
+### F3. Plan y avisos de riego: más elogios que quejas
 
 - **Entradas:** 8 (22%) · **Fuentes:** App Store (Planta 6, Greg 2)
 - **Tipo:** praise 5, complaint 3
 - **Severidad:** media
 - **Tendencia:** n/a
 - > "Tengo más de 100 plantas y me salva la vida tener organizados los riegos y las fertilizaciones." — F-34
-- > "A fixed schedule for your plants is not going to work never." — F-39
+- > "It is basically a reminder, same thing you can do in your own reminders app." — F-11
+- Las 3 quejas son distintas entre sí: es solo un recordatorio (F-11), un calendario fijo no funciona (F-39) y no considera la lluvia (F-40).
+- *Corrección (2026-11-24):* el título decía "el calendario fijo no convence", pero solo lo dice una reseña (F-39); pasó a señal débil.
 
 ### F4. Contenido en inglés
 
@@ -102,6 +104,7 @@ No hay análisis de métricas: plantil no existe todavía y el nivel 1 no se ha 
 
 ## Señales débiles
 
+- Un calendario fijo no funciona: "A fixed schedule for your plants is not going to work never." (F-39).
 - Greg la ayudó a observar más en vez de cuidar de más: "It helped me to be more observative when needed - as opposed to being overcaring." (F-26). Única mención cercana a regar de más.
 - Modo cuarentena y guía para huerto (F-32).
 - Fotos para ver cómo crece la planta, dentro del registro (F-10, F-39).
