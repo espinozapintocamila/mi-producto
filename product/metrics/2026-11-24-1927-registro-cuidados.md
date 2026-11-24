@@ -57,6 +57,5 @@ Del overview, como están declaradas: precio de ~$1.990 CLP al mes (#3) y perman
 ## Reconciliación con el plan de exposición
 
 - **Avanzar si** 4 de 6 registran en cada una de las 2 semanas → retention ≥ 67%.
-- **Detener si** 2 o menos lo hacen → retention ≤ 33%.
-- **3 de 6** (hueco del plan, decidido por Cami el 2026-11-24): se repite el nivel 1, 2 semanas, con otras 6 personas del segmento. Se lee por separado, sin sumar los grupos: avanza con 4 o más y se detiene con 3 o menos.
+- **Detener si** 3 o menos lo hacen → retention ≤ 50%. El plan decía 2 o menos y no cubría 3 de 6; Cami decidió el 2026-11-24, antes de revelar el nivel, que 3 de 6 también detiene.
 - **Apodos (#13)**, más de 1 de cada 5 mensajes sin entender → no lo lee ninguna métrica AARS; requiere el evento `mensaje_no_entendido` (persona, texto, fecha_hora).

@@ -21,7 +21,7 @@ Estamos equivocados si, en una semana, menos de 2 de cada 3 personas consultan l
 - **Creencia:** las personas con más de 15 plantas registran sus riegos por mensaje al menos una vez por semana sin recordatorios.
 - **Audiencia:** 6 personas con más de 15 plantas que aceptaron conversar en la encuesta y no trabajan con plantas.
 - **Duración:** 2 semanas.
-- **Validación:** **Avanzar si** al menos 4 de 6 registran al menos un riego en cada una de las 2 semanas. **Detener si** 2 o menos lo hacen: el hábito de registrar no aparece y el resto del plan no se puede leer. **Si son 3 de 6** (regla agregada el 2026-11-24, antes de revelar el nivel): se repite el nivel, 2 semanas, con otras 6 personas del segmento, leídas por separado; avanza con 4 o más y se detiene con 3 o menos.
+- **Validación:** **Avanzar si** al menos 4 de 6 registran al menos un riego en cada una de las 2 semanas. **Detener si** 3 o menos lo hacen: el hábito de registrar no aparece y el resto del plan no se puede leer. (Antes decía 2 o menos y no cubría 3 de 6; ajustado el 2026-11-24, antes de revelar el nivel.)
 
 ## Nivel 2 — Consultar cuándo regué una planta
 

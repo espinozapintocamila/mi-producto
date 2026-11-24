@@ -13,5 +13,5 @@ Lo que la IA propuso y la persona decidió distinto, para que las próximas expl
 
 - **Artifact:** `product/metrics/2026-11-24-1927-registro-cuidados.md` (y el nivel 1 de `product/exposure-plans/2026-11-17-2308-registro-cuidados.md`)
 - **AI proposed:** si registran 3 de 6, seguir una semana más con las mismas 6 personas y avanzar solo si 4 registran en ella.
-- **Human decided:** repetir el nivel con otras 6 personas.
-- **Why:** pendiente (Cami no indicó la razón).
+- **Human decided:** detener el nivel si registran 3 de 6. (Primero eligió repetir con otras 6 personas; lo cambió el mismo día, antes de tener datos, porque era la opción más lenta.)
+- **Why:** avanzar más rápido.
